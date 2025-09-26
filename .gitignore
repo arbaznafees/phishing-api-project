@@ -1,0 +1,16 @@
+# Python cache files ko ignore karo
+__pycache__/
+
+# Badi data files ko ignore karo
+*.csv
+
+# Training aur testing scripts ko ignore karo, kyunki API ko inki zaroorat nahin
+train_advanced_model.py
+download_data.py
+prepare_data.py
+finalCheck.py
+final_data_check.py
+inspect_data.py
+predict_advanced.py
+test_features.py
+verify_data.py
